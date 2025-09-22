@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/04_http.props" />
+</Project>

@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "mcpcph01": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": ["run", "--project", "01_first_server"]
+    }
+  },
+  "inputs": []
+}
