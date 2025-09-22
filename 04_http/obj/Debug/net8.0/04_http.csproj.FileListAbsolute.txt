@@ -24,3 +24,15 @@
 /Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/obj/Debug/net8.0/04_http.pdb
 /Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/obj/Debug/net8.0/04_http.genruntimeconfig.cache
 /Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/obj/Debug/net8.0/ref/04_http.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.AI.Abstractions.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/ModelContextProtocol.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/ModelContextProtocol.AspNetCore.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/ModelContextProtocol.Core.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/bin/Debug/net8.0/System.Net.ServerSentEvents.dll
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/obj/Debug/net8.0/04_http.csproj.AssemblyReference.cache
+/Users/dkfrealv/PERSONAL_DEV/microsoft_mcp_workshop_2025_09_22/04_http/obj/Debug/net8.0/04_http.csproj.Up2Date

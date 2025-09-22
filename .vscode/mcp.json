@@ -4,6 +4,10 @@
       "type": "stdio",
       "command": "dotnet",
       "args": ["run", "--project", "01_first_server"]
+    },
+    "mcp-http-test": {
+      "type": "http",
+      "url": "http://localhost:5051/mcp"
     }
   },
   "inputs": []

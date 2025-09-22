@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "ModelContextProtocol.AspNetCore": {
+              "target": "Package",
+              "version": "[0.3.0-preview.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
